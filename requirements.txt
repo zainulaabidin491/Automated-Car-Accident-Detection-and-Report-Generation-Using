@@ -1,0 +1,21 @@
+```text
+# Computer Vision
+ultralytics
+opencv-python
+pillow
+
+# Deep Learning & Numerical
+torch
+torchvision
+numpy
+pandas
+
+# NLP & API Integration
+groq
+langchain
+python-dotenv
+
+# Web Interface & Visualization
+streamlit
+matplotlib
+seaborn
