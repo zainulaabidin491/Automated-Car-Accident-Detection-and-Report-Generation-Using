@@ -1,0 +1,9 @@
+{
+    "Title": "Automated Accident Detection Analysis",
+    "Timestamp": "2026-01-05 11:57:05",
+    "Narrative": "ABSTRACT: This report details an automated detection of a vehicle incident. The system utilized a YOLOv11 architecture to process side_collision_123.mp4. ANALYSIS: A collision event was identified with a peak confidence of 52.79%. The involvement of 3 vehicles suggests a Moderate impact scenario.",
+    "Metrics": {
+        "Confidence": 0.527937114238739,
+        "Vehicles": 3
+    }
+}
